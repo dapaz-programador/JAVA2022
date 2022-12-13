@@ -9,7 +9,7 @@ public static void main(String[] args) {
 		if(nota >= 9.0); // <-- ; ai esta o erro
 		   // OBS não usar ";" em If é errado
 		   //não usar ";" em estrutura de controle ( tem uma exceção)
-		
+		   // teste git
 		{
 			System.out.println("qudro de Honra!");
 			System.out.println("Você é fera!!!!");
